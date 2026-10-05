@@ -1,0 +1,5 @@
+total 5
+drwxr-xr-x 1 cavo center 197121   0 Oct  5 17:47 ./
+drwxr-xr-x 1 cavo center 197121   0 Oct  5 17:42 ../
+-rw-r--r-- 1 cavo center 197121   0 Oct  5 17:43 .gitkeep
+-rw-r--r-- 1 cavo center 197121 204 Oct  5 17:47 journal.txt

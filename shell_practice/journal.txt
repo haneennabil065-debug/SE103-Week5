@@ -1,0 +1,5 @@
+Project owner: Haneen Alzayat
+Started shell practice for SE103-Week5
+My first attempt had an error in my command
+I fixed the problem and got a success result
+Saving command output helps me review my work
