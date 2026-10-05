@@ -1,0 +1,13 @@
+Student Name: Haneen Alzayat
+
+What I practiced in the shell:
+I practiced using shell commands to create files and organize folders. I used output redirection with > and >> to create and append information to files. I practiced grep to search for specific text and find to locate files. I also used pipes to connect commands and wildcards to select matching files safely.
+
+How GitHub changed my submission habits:
+GitHub helped me understand the importance of keeping my work organized and using clear file names. I learned that commits provide a history of my work and make it easier to track changes. I also learned that exact repository and file names can be important for automated checkers. Using branches and pull requests made my submission process more structured.
+
+One mistake I made and how I fixed it:
+One mistake I made was using HTTPS as the authentication method in my identity file. The checker required the file to contain PAT or SSH. I fixed the problem by changing the authentication method to PAT and committing the corrected file.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to be exactly SE103-Week5 because the assignment checker looks for that specific repository. Using the required name ensures that the automated system can find and evaluate my work correctly.
